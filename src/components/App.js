@@ -1,7 +1,7 @@
 import React from "react";
 import Container from "./Container";
 
-function App() {
+function App() { 
   return (
     <div className="App">
       <Container header="Example header" direction="horizontal">
